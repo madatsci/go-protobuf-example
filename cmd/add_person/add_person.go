@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	pb "github.com/madatsci/go-protobuf-example/protobuf/examples/go/tutorialpb"
+	pb "github.com/madatsci/go-protobuf-example/protobuf"
 	"google.golang.org/protobuf/proto"
 )
 
